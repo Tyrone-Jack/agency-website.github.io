@@ -310,7 +310,8 @@ body {
 }
 
 .navbar {
-  background-color: var(--white);
+  background: url(https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.vectorstock.com/royalty-free-vectors/purple-gradient-vectors&ved=2ahUKEwjP5LKU6fmEAxUuXfEDHR1lC7UQr4kDegQIJRAC&usg=AOvVaw0azP9xvvf4J_ZDITLS6oxb);
+  filter: blur(1.5rem);
   position: fixed;
   top: 0;
   left: -280px;
